@@ -1,5 +1,6 @@
 # microservice-basics
 This project was developed as part of my learning process in microservices architecture.
+**Not suitable for use as a template*
 
 It consists of two basic services:
 
